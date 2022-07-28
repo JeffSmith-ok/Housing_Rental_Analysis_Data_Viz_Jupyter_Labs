@@ -28,9 +28,7 @@ In the terminal type 'Jupyter Lab'
 
 The following images show the notebook read in Juypter Lab and in Github under financial_planning_tools.ipynb.
 
-## ![Screenshot of Jupyter_Lab with notebook open](Images/Jupyter_Lab.jpg) </br>
-
-## ![Screenshot of Github with notebook open](Images/Github.jpg)
+## ![Screenshot of Jupyter_Lab with notebook open](Images/Jupyter_Lab.jpeg) </br>
 
 ---
 
