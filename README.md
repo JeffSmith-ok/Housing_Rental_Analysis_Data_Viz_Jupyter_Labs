@@ -26,7 +26,7 @@ In the terminal type 'Jupyter Lab'
 
 ## Usage
 
-The following images show the notebook read in Juypter Lab and in Github under financial_planning_tools.ipynb.
+The following image show the notebook read in Juypter Lab. Note that opening san_francisco_housing.ipynb in Github will not work, because the Holoviews doesn't appear to work in that environment. Therefore, you have to install and run it in Jupyter Lab.
 
 ## ![Screenshot of Jupyter_Lab with notebook open](Images/Jupyter_Lab.jpeg) </br>
 
