@@ -1,8 +1,22 @@
-# Data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities
+# Housing Rental Analysis for San Francisco
+
+## Data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties for Proptech in the San Francisco market that are viable investment opportunities
 
 In this Challenge, I am analyst for Proptech, a company that wants to offer an instant, one-click service for people to buy properties and then rent them. The company wants to have a trial of this offering in the San Francisco real-estate market. If the service proves popular, they can then expand to other markets.
 
 My job is to use data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities, using HoloViews, designed to making data analysis and visualzation easy.
+
+The main task in this Challenge is to visualize and analyze the real-estate data in your Jupyter notebook. Use the `san_francisco_housing.ipynb` notebook to complete the following tasks:
+
+- Calculate and plot the housing units per year.
+
+- Calculate and plot the average prices per square foot.
+
+- Compare the average prices by neighborhood.
+
+- Build an interactive neighborhood map.
+
+- Compose a data story on if and where we should invest.
 
 ## Technologies
 
@@ -26,7 +40,7 @@ In the terminal type 'Jupyter Lab'
 
 ## Usage
 
-The following image show the notebook read in Juypter Lab. Note that opening san_francisco_housing.ipynb in Github will not work, because the Holoviews doesn't appear to work in that environment. Therefore, you have to install and run it in Jupyter Lab.
+The following image show the notebook read in Juypter Lab. Note that opening san_francisco_housing.ipynb in Github will not work, because the holoviews doesn't appear to work in that environment. Therefore, you have to install and run it in Jupyter Lab.
 
 ## ![Screenshot of Jupyter_Lab with notebook open](Images/Jupyter_Lab.jpeg) </br>
 
