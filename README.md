@@ -28,6 +28,8 @@ This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter_
 
 Install Anaconda and Python. </br>
 
+pip install hvplot
+
 Git clone the repo and run it, pursuant to the following clone address
 
 git clone https://github.com/JeffSmith-ok/Module_6_Challenge
