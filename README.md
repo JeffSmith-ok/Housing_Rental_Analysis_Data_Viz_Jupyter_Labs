@@ -50,8 +50,6 @@ The following image show the notebook read in Juypter Lab. Note that opening san
 
 ## Contributors
 
-This is the sixth of the individual learning challenges.
-
 My contact information is:
 
 Name: Jeffrey M. Smith </br>
