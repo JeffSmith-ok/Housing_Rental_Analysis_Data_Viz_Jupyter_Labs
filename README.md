@@ -6,7 +6,7 @@ I am analyzing the opportunity to launch an instant, one-click service for peopl
 
 My job is to use data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities, using HoloViews, designed to make data analysis and visualzation easy.
 
-The main task in this Challenge is to visualize and analyze the real-estate data in your Jupyter notebook. Use the `san_francisco_housing.ipynb` notebook to complete the following tasks:
+The main task is to visualize and analyze the real-estate data in a Jupyter notebook. I will use the `san_francisco_housing.ipynb` notebook to complete the following tasks:
 
 - Calculate and plot the housing units per year.
 
